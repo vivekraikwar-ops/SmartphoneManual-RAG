@@ -1,0 +1,10 @@
+pymupdf
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+streamlit
+langchain-groq
+python-dotenv
+Pillow
+numpy

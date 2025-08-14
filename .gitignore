@@ -3,6 +3,48 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Environment variables (SENSITIVE!)
+.env
+.envrc
+.venv/
+venv/
+env/
+ENV/
+
+# Generated data files
+faiss_index/
+*.faiss
+*.pkl
+images/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
 # C extensions
 *.so
 
